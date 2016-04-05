@@ -1,0 +1,27 @@
+{
+  "name": "mind-indent",
+  "version": "1.0.0",
+  "description": "Mind indentation in ES6 template strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rauno56/node-mind-indent.git"
+  },
+  "keywords": [
+    "template",
+    "string",
+    "ES6",
+    "ES2015",
+    "indent",
+    "indentation"
+  ],
+  "author": "Rauno Viskus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rauno56/node-mind-indent/issues"
+  },
+  "homepage": "https://github.com/Rauno56/node-mind-indent#readme"
+}
